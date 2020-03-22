@@ -1,0 +1,42 @@
+C:\Users\pauld\Desktop\AlgorithmsStage3\bin\Debug\AlgorithmsStage3.exe.config
+C:\Users\pauld\Desktop\AlgorithmsStage3\bin\Debug\AlgorithmsStage3.exe
+C:\Users\pauld\Desktop\AlgorithmsStage3\bin\Debug\AlgorithmsStage3.pdb
+C:\Users\pauld\Desktop\AlgorithmsStage3\obj\Debug\AlgorithmsStage3.csprojAssemblyReference.cache
+C:\Users\pauld\Desktop\AlgorithmsStage3\obj\Debug\MainWindow.g.cs
+C:\Users\pauld\Desktop\AlgorithmsStage3\obj\Debug\App.g.cs
+C:\Users\pauld\Desktop\AlgorithmsStage3\obj\Debug\AlgorithmsStage3_MarkupCompile.cache
+C:\Users\pauld\Desktop\AlgorithmsStage3\obj\Debug\AlgorithmsStage3_MarkupCompile.lref
+C:\Users\pauld\Desktop\AlgorithmsStage3\obj\Debug\MainWindow.baml
+C:\Users\pauld\Desktop\AlgorithmsStage3\obj\Debug\AlgorithmsStage3.g.resources
+C:\Users\pauld\Desktop\AlgorithmsStage3\obj\Debug\AlgorithmsStage3.Properties.Resources.resources
+C:\Users\pauld\Desktop\AlgorithmsStage3\obj\Debug\AlgorithmsStage3.csproj.GenerateResource.cache
+C:\Users\pauld\Desktop\AlgorithmsStage3\obj\Debug\AlgorithmsStage3.exe
+C:\Users\pauld\Desktop\AlgorithmsStage3\obj\Debug\AlgorithmsStage3.pdb
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage3\bin\Debug\AlgorithmsStage3.exe.config
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage3\bin\Debug\AlgorithmsStage3.exe
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage3\bin\Debug\AlgorithmsStage3.pdb
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage3\obj\Debug\AlgorithmsStage3.csprojAssemblyReference.cache
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage3\obj\Debug\MainWindow.g.cs
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage3\obj\Debug\App.g.cs
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage3\obj\Debug\AlgorithmsStage3_MarkupCompile.cache
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage3\obj\Debug\AlgorithmsStage3_MarkupCompile.lref
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage3\obj\Debug\MainWindow.baml
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage3\obj\Debug\AlgorithmsStage3.g.resources
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage3\obj\Debug\AlgorithmsStage3.Properties.Resources.resources
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage3\obj\Debug\AlgorithmsStage3.csproj.GenerateResource.cache
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage3\obj\Debug\AlgorithmsStage3.exe
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage3\obj\Debug\AlgorithmsStage3.pdb
+H:\6211\AlgorithmsStage3\bin\Debug\AlgorithmsStage3.exe.config
+H:\6211\AlgorithmsStage3\bin\Debug\AlgorithmsStage3.exe
+H:\6211\AlgorithmsStage3\bin\Debug\AlgorithmsStage3.pdb
+H:\6211\AlgorithmsStage3\obj\Debug\AlgorithmsStage3.csprojAssemblyReference.cache
+H:\6211\AlgorithmsStage3\obj\Debug\MainWindow.g.cs
+H:\6211\AlgorithmsStage3\obj\Debug\App.g.cs
+H:\6211\AlgorithmsStage3\obj\Debug\AlgorithmsStage3_MarkupCompile.cache
+H:\6211\AlgorithmsStage3\obj\Debug\AlgorithmsStage3_MarkupCompile.lref
+H:\6211\AlgorithmsStage3\obj\Debug\MainWindow.baml
+H:\6211\AlgorithmsStage3\obj\Debug\AlgorithmsStage3.g.resources
+H:\6211\AlgorithmsStage3\obj\Debug\AlgorithmsStage3.Properties.Resources.resources
+H:\6211\AlgorithmsStage3\obj\Debug\AlgorithmsStage3.csproj.GenerateResource.cache
+H:\6211\AlgorithmsStage3\obj\Debug\AlgorithmsStage3.exe
+H:\6211\AlgorithmsStage3\obj\Debug\AlgorithmsStage3.pdb

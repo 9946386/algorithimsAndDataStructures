@@ -1,0 +1,17 @@
+﻿<Window x:Class="fortunePredictor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:fortunePredictor"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="354.546">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="depositphotos_34984377-stock-illustration-the-fortuneteller.jpg" Opacity="0.75"/>
+        </Grid.Background>
+        <Button Content="Fortune Teller" HorizontalAlignment="Left" Margin="133,254,0,0" VerticalAlignment="Top" Width="102" Height="38" Click="Button_Click"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Height="75" Margin="46,311,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="263" Background="#FFB9B9B9" OpacityMask="#CC786F6F"/>
+
+    </Grid>
+</Window>

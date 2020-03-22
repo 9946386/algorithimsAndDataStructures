@@ -1,0 +1,56 @@
+C:\Users\pauld\Desktop\AlgorithmsStage1\bin\Debug\AlgorithmsStage1.exe.config
+C:\Users\pauld\Desktop\AlgorithmsStage1\bin\Debug\AlgorithmsStage1.exe
+C:\Users\pauld\Desktop\AlgorithmsStage1\bin\Debug\AlgorithmsStage1.pdb
+C:\Users\pauld\Desktop\AlgorithmsStage1\obj\Debug\MainWindow.g.cs
+C:\Users\pauld\Desktop\AlgorithmsStage1\obj\Debug\App.g.cs
+C:\Users\pauld\Desktop\AlgorithmsStage1\obj\Debug\AlgorithmsStage1_MarkupCompile.cache
+C:\Users\pauld\Desktop\AlgorithmsStage1\obj\Debug\AlgorithmsStage1_MarkupCompile.lref
+C:\Users\pauld\Desktop\AlgorithmsStage1\obj\Debug\MainWindow.baml
+C:\Users\pauld\Desktop\AlgorithmsStage1\obj\Debug\AlgorithmsStage1.g.resources
+C:\Users\pauld\Desktop\AlgorithmsStage1\obj\Debug\AlgorithmsStage1.Properties.Resources.resources
+C:\Users\pauld\Desktop\AlgorithmsStage1\obj\Debug\AlgorithmsStage1.csproj.GenerateResource.cache
+C:\Users\pauld\Desktop\AlgorithmsStage1\obj\Debug\AlgorithmsStage1.exe
+C:\Users\pauld\Desktop\AlgorithmsStage1\obj\Debug\AlgorithmsStage1.pdb
+C:\Users\pauld\Desktop\AlgorithmsStage1\obj\Debug\AlgorithmsStage1.csprojAssemblyReference.cache
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage1\bin\Debug\AlgorithmsStage1.exe.config
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage1\bin\Debug\AlgorithmsStage1.exe
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage1\bin\Debug\AlgorithmsStage1.pdb
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage1\obj\Debug\AlgorithmsStage1.csprojAssemblyReference.cache
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage1\obj\Debug\MainWindow.g.cs
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage1\obj\Debug\App.g.cs
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage1\obj\Debug\AlgorithmsStage1_MarkupCompile.cache
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage1\obj\Debug\AlgorithmsStage1_MarkupCompile.lref
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage1\obj\Debug\MainWindow.baml
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage1\obj\Debug\AlgorithmsStage1.g.resources
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage1\obj\Debug\AlgorithmsStage1.Properties.Resources.resources
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage1\obj\Debug\AlgorithmsStage1.csproj.GenerateResource.cache
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage1\obj\Debug\AlgorithmsStage1.exe
+C:\Users\pauld\Desktop\2020\COMP.6211\Week 3 TO DO\AlgorithmsStage1\obj\Debug\AlgorithmsStage1.pdb
+H:\6211\AlgorithmsStage1\bin\Debug\AlgorithmsStage1.exe.config
+H:\6211\AlgorithmsStage1\bin\Debug\AlgorithmsStage1.exe
+H:\6211\AlgorithmsStage1\bin\Debug\AlgorithmsStage1.pdb
+H:\6211\AlgorithmsStage1\obj\Debug\MainWindow.g.cs
+H:\6211\AlgorithmsStage1\obj\Debug\App.g.cs
+H:\6211\AlgorithmsStage1\obj\Debug\AlgorithmsStage1_MarkupCompile.cache
+H:\6211\AlgorithmsStage1\obj\Debug\AlgorithmsStage1_MarkupCompile.lref
+H:\6211\AlgorithmsStage1\obj\Debug\MainWindow.baml
+H:\6211\AlgorithmsStage1\obj\Debug\AlgorithmsStage1.g.resources
+H:\6211\AlgorithmsStage1\obj\Debug\AlgorithmsStage1.Properties.Resources.resources
+H:\6211\AlgorithmsStage1\obj\Debug\AlgorithmsStage1.csproj.GenerateResource.cache
+H:\6211\AlgorithmsStage1\obj\Debug\AlgorithmsStage1.exe
+H:\6211\AlgorithmsStage1\obj\Debug\AlgorithmsStage1.pdb
+H:\6211\AlgorithmsStage1\obj\Debug\AlgorithmsStage1.csprojAssemblyReference.cache
+C:\Users\9946386\AlgorithmsStage1\bin\Debug\AlgorithmsStage1.exe.config
+C:\Users\9946386\AlgorithmsStage1\bin\Debug\AlgorithmsStage1.exe
+C:\Users\9946386\AlgorithmsStage1\bin\Debug\AlgorithmsStage1.pdb
+C:\Users\9946386\AlgorithmsStage1\obj\Debug\AlgorithmsStage1.csprojAssemblyReference.cache
+C:\Users\9946386\AlgorithmsStage1\obj\Debug\MainWindow.g.cs
+C:\Users\9946386\AlgorithmsStage1\obj\Debug\App.g.cs
+C:\Users\9946386\AlgorithmsStage1\obj\Debug\AlgorithmsStage1_MarkupCompile.cache
+C:\Users\9946386\AlgorithmsStage1\obj\Debug\AlgorithmsStage1_MarkupCompile.lref
+C:\Users\9946386\AlgorithmsStage1\obj\Debug\MainWindow.baml
+C:\Users\9946386\AlgorithmsStage1\obj\Debug\AlgorithmsStage1.g.resources
+C:\Users\9946386\AlgorithmsStage1\obj\Debug\AlgorithmsStage1.Properties.Resources.resources
+C:\Users\9946386\AlgorithmsStage1\obj\Debug\AlgorithmsStage1.csproj.GenerateResource.cache
+C:\Users\9946386\AlgorithmsStage1\obj\Debug\AlgorithmsStage1.exe
+C:\Users\9946386\AlgorithmsStage1\obj\Debug\AlgorithmsStage1.pdb

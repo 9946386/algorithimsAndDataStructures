@@ -1,0 +1,16 @@
+H:\6211\WPFApplication1\WPFApplication1\bin\Debug\WPFApplication1.exe.config
+H:\6211\WPFApplication1\WPFApplication1\bin\Debug\WPFApplication1.exe
+H:\6211\WPFApplication1\WPFApplication1\bin\Debug\WPFApplication1.pdb
+H:\6211\WPFApplication1\WPFApplication1\obj\Debug\WPFApplication1.csprojAssemblyReference.cache
+H:\6211\WPFApplication1\WPFApplication1\obj\Debug\MainWindow.g.cs
+H:\6211\WPFApplication1\WPFApplication1\obj\Debug\App.g.cs
+H:\6211\WPFApplication1\WPFApplication1\obj\Debug\WPFApplication1_MarkupCompile.cache
+H:\6211\WPFApplication1\WPFApplication1\obj\Debug\WPFApplication1_MarkupCompile.lref
+H:\6211\WPFApplication1\WPFApplication1\obj\Debug\MainWindow.baml
+H:\6211\WPFApplication1\WPFApplication1\obj\Debug\WPFApplication1.g.resources
+H:\6211\WPFApplication1\WPFApplication1\obj\Debug\WPFApplication1.Properties.Resources.resources
+H:\6211\WPFApplication1\WPFApplication1\obj\Debug\WPFApplication1.csproj.GenerateResource.cache
+H:\6211\WPFApplication1\WPFApplication1\obj\Debug\WPFApplication1.exe
+H:\6211\WPFApplication1\WPFApplication1\obj\Debug\WPFApplication1.pdb
+H:\6211\WPFApplication1\WPFApplication1\obj\Debug\Window2.g.cs
+H:\6211\WPFApplication1\WPFApplication1\obj\Debug\Window2.baml

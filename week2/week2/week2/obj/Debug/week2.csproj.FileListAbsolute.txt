@@ -1,0 +1,14 @@
+H:\6211\week2\week2\week2\bin\Debug\week2.exe.config
+H:\6211\week2\week2\week2\bin\Debug\week2.exe
+H:\6211\week2\week2\week2\bin\Debug\week2.pdb
+H:\6211\week2\week2\week2\obj\Debug\week2.csprojAssemblyReference.cache
+H:\6211\week2\week2\week2\obj\Debug\MainWindow.g.cs
+H:\6211\week2\week2\week2\obj\Debug\App.g.cs
+H:\6211\week2\week2\week2\obj\Debug\week2_MarkupCompile.cache
+H:\6211\week2\week2\week2\obj\Debug\week2_MarkupCompile.lref
+H:\6211\week2\week2\week2\obj\Debug\MainWindow.baml
+H:\6211\week2\week2\week2\obj\Debug\week2.g.resources
+H:\6211\week2\week2\week2\obj\Debug\week2.Properties.Resources.resources
+H:\6211\week2\week2\week2\obj\Debug\week2.csproj.GenerateResource.cache
+H:\6211\week2\week2\week2\obj\Debug\week2.exe
+H:\6211\week2\week2\week2\obj\Debug\week2.pdb

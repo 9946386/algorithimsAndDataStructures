@@ -1,0 +1,23 @@
+﻿<Window x:Class="SlotMachine.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SlotMachine"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="323*"/>
+            <ColumnDefinition Width="73*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="textBlockDollars" HorizontalAlignment="Left" Height="23" Margin="41,48,0,0" TextWrapping="Wrap" Text="You have $." VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged" FontFamily="Calibri" FontSize="20" BorderBrush="{x:Null}"/>
+        <Image x:Name="imageWheel1" HorizontalAlignment="Left" Height="120" Margin="41,166,0,0" VerticalAlignment="Top" Width="120" Source="heart.png" MouseLeftButtonDown="imageWheel1_MouseLeftButtonDown"/>
+        <Image x:Name="imageWheel2" HorizontalAlignment="Left" Height="120" Margin="161,166,0,0" VerticalAlignment="Top" Width="120" Source="heart.png" MouseLeftButtonDown="imageWheel2_MouseLeftButtonDown"/>
+        <Image x:Name="imageWheel3" HorizontalAlignment="Left" Height="120" Margin="281,166,0,0" VerticalAlignment="Top" Width="120" Source="heart.png" MouseLeftButtonDown="imageWheel3_MouseLeftButtonDown"/>
+        <Image x:Name="imageWinLose" HorizontalAlignment="Left" Height="70" Margin="41,91,0,0" VerticalAlignment="Top" Width="360"/>
+        <Button x:Name="buttonAddCash" Content="Add Cash" HorizontalAlignment="Left" Margin="41,306,0,0" VerticalAlignment="Top" Width="360" Height="38" Click="buttonAddCash_Click" Background="#FFCB4343" Foreground="White"/>
+        <Button x:Name="buttonPlay" Content="Play" HorizontalAlignment="Left" Margin="146,349,0,0" VerticalAlignment="Top" Width="150" Height="43" Click="buttonPlay_Click" Background="Black" BorderBrush="White" Foreground="White"/>
+
+    </Grid>
+</Window>
